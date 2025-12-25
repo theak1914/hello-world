@@ -1,2 +1,3 @@
 # hello-world
-just first timr lrarning
+just first time learning
+just trying to learn GitHub
